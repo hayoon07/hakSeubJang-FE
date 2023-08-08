@@ -2,8 +2,21 @@
 
 
 :root {
+    /* 대표색 컬러 */
     --primary-color: #779C3C;
     --sub-color: #51672D;
+
+    /* 회색컬러 */
+    --gray-line: #d9d9d9;
+    --gray-box: #8b8b8b;
+
+    /* 박스 그림자(opacity 20%) */
+    --box-shadow: #8A959E;
+    
+    
+    /* 기본 너비 */
+    --primary-width: 996px;
+    --mypage-width: 800px;
 }
 
 /* 
